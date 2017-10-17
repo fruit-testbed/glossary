@@ -8,9 +8,9 @@
 
 
 
-## Management Components
+## Management Components
 
-### 1. Operating System
+### 1. Operating System
 
 - As a **sysadmin**, I can <u>build</u> an Operating System image based on a particular profile
 - As a **user**, I can <u>download</u> an Operating System image
