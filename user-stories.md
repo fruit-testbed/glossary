@@ -31,7 +31,7 @@
 
 
 
-### 3. Monitoring
+### 3. Monitoring
 
 - As an **agent**, I can <u>periodically post</u> the monitoring data of a particular node
 - As a **sysadmin** or **user**, I can <u>download</u> the monitoring data of particular nodes
